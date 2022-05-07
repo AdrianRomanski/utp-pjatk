@@ -4,7 +4,7 @@
  *
  */
 
-package UTP2_RA_S22333.src.zad2;
+package exercises.exercise_2.src.zad2;
 
 
 public class Main {

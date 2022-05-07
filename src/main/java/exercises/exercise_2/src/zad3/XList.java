@@ -1,4 +1,4 @@
-package UTP2_RA_S22333.src.zad3;
+package exercises.exercise_2.src.zad3;
 
 import java.util.*;
 import java.util.function.Function;
